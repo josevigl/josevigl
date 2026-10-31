@@ -207,19 +207,9 @@ Computing specialization.
 
 <h2 align="center">◈  GITHUB ANALYTICS  ◈</h2>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=josevigl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevigl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-
-<br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=josevigl&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
 
 <br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=josevigl&bg_color=0D1117&color=A78BFA&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
