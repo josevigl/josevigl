@@ -111,23 +111,6 @@ Computer Engineer · Data Scientist
 
 *Some experiments, some research, some real-world problem solving.*
 
-<br/>
-
-<a href="https://github.com/josevigl/sonic_tfm">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=josevigl&repo=sonic_tfm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-</a>
-<a href="https://github.com/josevigl/analisis_F1">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=josevigl&repo=analisis_F1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-</a>
-<a href="https://github.com/josevigl/analizadorCV">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=josevigl&repo=analizadorCV&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-</a>
-<a href="https://github.com/josevigl/Prediccion_de_riesgo_CV">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=josevigl&repo=Prediccion_de_riesgo_CV&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-</a>
-
-</div>
-
 ### 🔬 More about my work
 
 | Project | What I explored |
@@ -189,19 +172,9 @@ Intelligent chatbots, RAG architectures, LangChain, ChromaDB and Generative AI.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=josevigl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevigl&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=josevigl&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=josevigl&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true" />
-
-</div>
 
 ---
 
@@ -225,11 +198,6 @@ I'm always open to discussing AI, Data Science, Machine Learning and exciting te
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
-
-**"Datos bien analizados. Modelos rigurosamente evaluados."**
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:09090F&height=120&section=footer" />
 
