@@ -169,59 +169,54 @@ Predictive machine learning models for cardiovascular risk assessment.
 
 ---
 
-<h2 align="center">EXPERIENCE & EDUCATION</h2>
+<h2 align="center">◈ EXPERIENCE & EDUCATION ◈</h2>
+
+<p align="center">
+<i>My professional journey and academic background in Artificial Intelligence and Computer Engineering.</i>
+</p>
 
 <br/>
 
-<h3 align="center">PROFESSIONAL EXPERIENCE</h3>
+<h3 align="center">◈ PROFESSIONAL EXPERIENCE ◈</h3>
 
 <table>
 <tr>
-<td width="22%" valign="top">
-
-<strong>2025 — 2026</strong>
-
-<sub>January — July</sub>
-
-</td>
-<td width="78%" valign="top">
+<td width="100%" valign="top">
 
 <h3>Machine Learning Engineer</h3>
 
 <strong>CuarteroAgurcia</strong>
 
-Machine Learning solutions for digital marketing, customer segmentation, lead scoring and predictive analytics.
+<img src="https://img.shields.io/badge/JAN_2025--JUL_2026-7C3AED?style=flat-square&logo=calendar&logoColor=white"/>
 
-<sub>PYTHON · MACHINE LEARNING · PREDICTIVE ANALYTICS · DATA SCIENCE</sub>
+Development of Machine Learning solutions for digital marketing, customer segmentation, lead scoring and predictive analytics.
+
+<br/>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/PREDICTIVE_ANALYTICS-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/DATA_SCIENCE-6D28D9?style=flat-square"/>
 
 </td>
 </tr>
-
 <tr>
-<td colspan="2">
-
-<hr/>
-
-</td>
-</tr>
-
-<tr>
-<td width="22%" valign="top">
-
-<strong>2024</strong>
-
-<sub>March — June</sub>
-
-</td>
-<td width="78%" valign="top">
+<td width="100%" valign="top">
 
 <h3>AI Developer Intern</h3>
 
 <strong>Teknei</strong>
 
+<img src="https://img.shields.io/badge/MAR_2024--JUN_2024-0891B2?style=flat-square&logo=calendar&logoColor=white"/>
+
 Development of intelligent chatbots, RAG architectures and Generative AI solutions.
 
-<sub>GENERATIVE AI · RAG · LANGCHAIN · CHROMADB</sub>
+<br/>
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/CHROMADB-6D28D9?style=flat-square"/>
 
 </td>
 </tr>
@@ -229,55 +224,42 @@ Development of intelligent chatbots, RAG architectures and Generative AI solutio
 
 <br/>
 
-<h3 align="center">ACADEMIC BACKGROUND</h3>
+<h3 align="center">◈ ACADEMIC BACKGROUND ◈</h3>
 
 <table>
 <tr>
-<td width="22%" valign="top">
-
-<strong>2024 — 2026</strong>
-
-<sub>September — July</sub>
-
-</td>
-<td width="78%" valign="top">
+<td width="100%" valign="top">
 
 <h3>MSc Computer Engineering</h3>
 
 <strong>Universidad de Castilla-La Mancha</strong>
 
+<img src="https://img.shields.io/badge/SEP_2024--JUL_2026-7C3AED?style=flat-square&logo=calendar&logoColor=white"/>
+
 Specialization in Artificial Intelligence.
 
-<sub>ARTIFICIAL INTELLIGENCE · COMPUTER ENGINEERING</sub>
+<br/>
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/COMPUTER_ENGINEERING-0891B2?style=flat-square"/>
 
 </td>
 </tr>
-
 <tr>
-<td colspan="2">
-
-<hr/>
-
-</td>
-</tr>
-
-<tr>
-<td width="22%" valign="top">
-
-<strong>2020 — 2024</strong>
-
-<sub>Sptember — June</sub>
-
-</td>
-<td width="78%" valign="top">
+<td width="100%" valign="top">
 
 <h3>BSc Computer Engineering</h3>
 
 <strong>Universidad de Castilla-La Mancha</strong>
 
+<img src="https://img.shields.io/badge/SEP_2020--JUN_2024-0891B2?style=flat-square&logo=calendar&logoColor=white"/>
+
 Computing specialization.
 
-<sub>COMPUTER SCIENCE · SOFTWARE ENGINEERING</sub>
+<br/>
+
+<img src="https://img.shields.io/badge/COMPUTER_SCIENCE-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-0891B2?style=flat-square"/>
 
 </td>
 </tr>
@@ -287,12 +269,12 @@ Computing specialization.
 
 <div align="center">
 
-<i>Discover more about my background and projects.</i>
+<i>Combining academic foundations with hands-on experience to build intelligent solutions.</i>
 
 <br/><br/>
 
 <a href="https://josevicentegarcia.vercel.app/">
-<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_BACKGROUND-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
