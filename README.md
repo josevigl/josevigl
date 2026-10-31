@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,35:21105C,70:6D28D9,100:06B6D4&height=240&section=header&text=JOS%C3%89%20VICENTE&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20SCIENCE&descSize=13&descAlignY=60&animation=twinkling&stroke=8B5CF6&strokeWidth=1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jos%C3%A9+Vicente+%F0%9F%91%8B;AI+Engineer+%7C+Data+Scientist+%7C+ML+Engineer;Building+intelligent+systems+%F0%9F%A4%96;Turning+data+into+real-world+impact+%F0%9F%A7%A0;Always+learning.+Always+building.+%E2%9A%A1" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jos%C3%A9+Vicente;AI+Engineer+%7C+Data+Scientist+%7C+ML+Engineer;Building+intelligent+systems;Turning+data+into+real-world+impact;Always+learning.+Always+building." alt="Typing animation"/>
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ---
 
-<h2 align="center">◈  ABOUT ME  ◈</h2>
+<h2 align="center">◈ ABOUT ME ◈</h2>
 
 <table>
 <tr>
@@ -34,12 +34,12 @@ I enjoy transforming complex problems into practical solutions through engineeri
 
 **What drives me:**
 
-- 🧠 Artificial Intelligence & Machine Learning
-- 📊 Data Science & Predictive Analytics
-- 🤖 Deep Learning & Reinforcement Learning
-- ⚡ Generative AI, RAG & AI Agents
-- ⚙️ MLOps & Intelligent Systems
-- 🔬 Responsible and Trustworthy AI
+- Artificial Intelligence & Machine Learning
+- Data Science & Predictive Analytics
+- Deep Learning & Reinforcement Learning
+- Generative AI, RAG & AI Agents
+- MLOps & Intelligent Systems
+- Responsible and Trustworthy AI
 
 </td>
 <td width="40%" align="center">
@@ -52,9 +52,9 @@ I enjoy transforming complex problems into practical solutions through engineeri
 
 Computer Engineer
 
-📍 Spain 🇪🇸
+Spain 🇪🇸
 
-[🌐 Personal Website](https://josevicentegarcia.vercel.app/)
+[Personal Website](https://josevicentegarcia.vercel.app/)
 
 </td>
 </tr>
@@ -62,7 +62,7 @@ Computer Engineer
 
 ---
 
-<h2 align="center">◈  TECH STACK  ◈</h2>
+<h2 align="center">◈ TECH STACK ◈</h2>
 
 <h3 align="center">Languages & Development</h3>
 
@@ -94,7 +94,7 @@ Computer Engineer
 
 ---
 
-<h2 align="center">◈  FEATURED PROJECTS  ◈</h2>
+<h2 align="center">◈ FEATURED PROJECTS ◈</h2>
 
 <p align="center">
 <i>Ideas, experiments and intelligent solutions.</i>
@@ -104,7 +104,7 @@ Computer Engineer
 <tr>
 <td width="50%" valign="top">
 
-### 🏎️ Formula 1 Analytics
+### Formula 1 Analytics
 
 <a href="https://github.com/josevigl/analisis_F1">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=flat-square&logo=github"/>
@@ -117,7 +117,7 @@ Interactive data analysis, visualizations and motorsport insights.
 </td>
 <td width="50%" valign="top">
 
-### 🦔 Sonic Reinforcement Learning
+### Sonic Reinforcement Learning
 
 <a href="https://github.com/josevigl/sonic_tfm">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=flat-square&logo=github"/>
@@ -132,7 +132,7 @@ Training intelligent agents using PPO, A2C, DQN and QR-DQN.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Intelligent CV Analyzer
+### Intelligent CV Analyzer
 
 <a href="https://github.com/josevigl/analizadorCV">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0891B2?style=flat-square&logo=github"/>
@@ -145,7 +145,7 @@ AI-powered resume analysis and intelligent information extraction.
 </td>
 <td width="50%" valign="top">
 
-### ❤️ Cardiovascular Risk Prediction
+### Cardiovascular Risk Prediction
 
 <a href="https://github.com/josevigl/Prediccion_de_riesgo_CV">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0891B2?style=flat-square&logo=github"/>
@@ -167,7 +167,7 @@ Predictive machine learning models for cardiovascular risk assessment.
 
 ---
 
-<h2 align="center">◈  EXPERIENCE & EDUCATION  ◈</h2>
+<h2 align="center">◈ EXPERIENCE & EDUCATION ◈</h2>
 
 <div align="center">
 
@@ -215,7 +215,7 @@ Computing specialization.
 
 ---
 
-<h2 align="center">◈  CONTRIBUTION SNAKE  ◈</h2>
+<h2 align="center">◈ CONTRIBUTION SNAKE ◈</h2>
 
 <div align="center">
 
@@ -247,7 +247,7 @@ class JoseVicente:
         return "Building intelligent solutions"
 ```
 
-<h2 align="center">◈  LET'S CONNECT  ◈</h2>
+<h2 align="center">◈ LET'S CONNECT ◈</h2>
 
 <div align="center">
 
@@ -271,7 +271,7 @@ I'm always open to discussing Artificial Intelligence, Data Science, Machine Lea
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+commit+%F0%9F%9A%80" alt="Thank you animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+commit." alt="Thank you animation"/>
 
 <br/><br/>
 
