@@ -166,9 +166,10 @@ Predictive machine learning models for cardiovascular risk assessment.
 </p>
 
 
+
 ---
 
-<h2 align="center">◈ EXPERIENCE & EDUCATION ◈</h2>
+<h2 align="center">EXPERIENCE & EDUCATION</h2>
 
 <br/>
 
@@ -176,43 +177,51 @@ Predictive machine learning models for cardiovascular risk assessment.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="22%" valign="top">
+
+<strong>2025 — 2026</strong>
+
+<sub>January — July</sub>
+
+</td>
+<td width="78%" valign="top">
 
 <h3>Machine Learning Engineer</h3>
 
 <strong>CuarteroAgurcia</strong>
 
-<img src="https://img.shields.io/badge/2025--2026-7C3AED?style=flat-square"/>
-
-<sub>MONTH 2025 — MONTH 2026</sub>
-
 Machine Learning solutions for digital marketing, customer segmentation, lead scoring and predictive analytics.
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Machine_Learning-21105C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Predictive_Analytics-21105C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Science-21105C?style=flat-square"/>
+<sub>PYTHON · MACHINE LEARNING · PREDICTIVE ANALYTICS · DATA SCIENCE</sub>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+<td colspan="2">
+
+<hr/>
+
+</td>
+</tr>
+
+<tr>
+<td width="22%" valign="top">
+
+<strong>2024</strong>
+
+<sub>March — June</sub>
+
+</td>
+<td width="78%" valign="top">
 
 <h3>AI Developer Intern</h3>
 
 <strong>Teknei</strong>
 
-<img src="https://img.shields.io/badge/2024-0891B2?style=flat-square"/>
-
-<sub>MONTH 2024 — MONTH 2024</sub>
-
 Development of intelligent chatbots, RAG architectures and Generative AI solutions.
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Generative_AI-083344?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-083344?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-083344?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-083344?style=flat-square"/>
+<sub>GENERATIVE AI · RAG · LANGCHAIN · CHROMADB</sub>
 
 </td>
 </tr>
@@ -220,42 +229,55 @@ Development of intelligent chatbots, RAG architectures and Generative AI solutio
 
 <br/>
 
-<h3 align="center">EDUCATION</h3>
+<h3 align="center">ACADEMIC BACKGROUND</h3>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="22%" valign="top">
+
+<strong>2024 — 2026</strong>
+
+<sub>September — July</sub>
+
+</td>
+<td width="78%" valign="top">
 
 <h3>MSc Computer Engineering</h3>
 
 <strong>Universidad de Castilla-La Mancha</strong>
 
-<img src="https://img.shields.io/badge/2024--2026-7C3AED?style=flat-square"/>
-
-<sub>MONTH 2024 — MONTH 2026</sub>
-
 Specialization in Artificial Intelligence.
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-21105C?style=flat-square"/>
+<sub>ARTIFICIAL INTELLIGENCE · COMPUTER ENGINEERING</sub>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+<td colspan="2">
+
+<hr/>
+
+</td>
+</tr>
+
+<tr>
+<td width="22%" valign="top">
+
+<strong>2020 — 2024</strong>
+
+<sub>Sptember — June</sub>
+
+</td>
+<td width="78%" valign="top">
 
 <h3>BSc Computer Engineering</h3>
 
 <strong>Universidad de Castilla-La Mancha</strong>
 
-<img src="https://img.shields.io/badge/2020--2024-312E81?style=flat-square"/>
-
-<sub>MONTH 2020 — MONTH 2024</sub>
-
 Computing specialization.
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Computer_Science-312E81?style=flat-square"/>
+<sub>COMPUTER SCIENCE · SOFTWARE ENGINEERING</sub>
 
 </td>
 </tr>
@@ -265,15 +287,18 @@ Computing specialization.
 
 <div align="center">
 
-<i>Want to know more about my professional journey?</i>
+<i>Discover more about my background and projects.</i>
+
+<br/><br/>
 
 <a href="https://josevicentegarcia.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 ---
+
 
 
 <div align="center">
