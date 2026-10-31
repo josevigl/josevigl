@@ -285,9 +285,8 @@ Computing specialization.
 </a>
 
 </div>
+
 ---
-
-
 
 <div align="center">
 
