@@ -224,52 +224,49 @@ Development of intelligent chatbots, RAG architectures and Generative AI solutio
 
 <br/>
 
-< h3 align="center">◈ ACADEMIC BACKGROUND ◈</h3>
+<h3 align="center">◈ ACADEMIC BACKGROUND ◈</h3>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🎓 MSc Computer Engineering</h3>
+<h3>MSc Computer Engineering</h3>
 
-<p align="center">
 <strong>Universidad de Castilla-La Mancha</strong>
-</p>
 
-<p align="center">
+<br/><br/>
+
 <img src="https://img.shields.io/badge/2024--2026-7C3AED?style=flat-square&logo=calendar&logoColor=white"/>
-</p>
+
+<br/><br/>
 
 Specialization in Artificial Intelligence.
 
-<br/>
+<br/><br/>
 
-<p align="center">
 <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/COMPUTER_ENGINEERING-0891B2?style=flat-square"/>
-</p>
 
 </td>
-<td width="50%" valign="top">
 
-<h3 align="center">💻 BSc Computer Engineering</h3>
+<td width="50%" valign="top" align="center">
 
-<p align="center">
+<h3>BSc Computer Engineering</h3>
+
 <strong>Universidad de Castilla-La Mancha</strong>
-</p>
 
-<p align="center">
+<br/><br/>
+
 <img src="https://img.shields.io/badge/2020--2024-0891B2?style=flat-square&logo=calendar&logoColor=white"/>
-</p>
+
+<br/><br/>
 
 Computing specialization.
 
-<br/>
+<br/><br/>
 
-<p align="center">
 <img src="https://img.shields.io/badge/COMPUTER_SCIENCE-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-0891B2?style=flat-square"/>
-</p>
 
 </td>
 </tr>
