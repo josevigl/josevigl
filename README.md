@@ -205,11 +205,11 @@ Computing specialization.
 
 ---
 
-<h2 align="center">◈  GITHUB ANALYTICS  ◈</h2>
+<div align="center">
+
+<h2>◈ GITHUB ANALYTICS ◈</h2>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=josevigl&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
-
-<br/>
 
 </div>
 
@@ -223,11 +223,11 @@ Computing specialization.
 
 </div>
 
----
-
-<h2 align="center">◈  BEYOND THE CODE  ◈</h2>
+<h2 align="center">◈ BEYOND THE CODE ◈</h2>
 
 <div align="center">
+  <strong>AI Engineer | Machine Learning | Generative AI</strong>
+</div>
 
 ```python
 class JoseVicente:
@@ -244,14 +244,8 @@ class JoseVicente:
         self.mindset = "Never stop learning"
 
     def current_mission(self):
-        return "Building intelligent solutions 🚀"
+        return "Building intelligent solutions"
 ```
-
-**Think. Experiment. Build. Repeat.**
-
-</div>
-
----
 
 <h2 align="center">◈  LET'S CONNECT  ◈</h2>
 
