@@ -52,7 +52,7 @@ I enjoy transforming complex problems into practical solutions through engineeri
 
 Computer Engineer
 
-Spain 🇪🇸
+Madrid, Spain
 
 [Personal Website](https://josevicentegarcia.vercel.app/)
 
