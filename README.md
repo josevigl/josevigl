@@ -161,7 +161,7 @@ Predictive machine learning models for cardiovascular risk assessment.
 
 <p align="center">
 <a href="https://github.com/josevigl?tab=repositories">
-<img src="https://img.shields.io/badge/⚡_EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge"/>
 </a>
 </p>
 
