@@ -1,67 +1,60 @@
-<!-- ===================== HERO ===================== -->
+ <div align="center">
 
-<div align="center">
+<!-- ANIMATED HERO -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:312E81,100:7C3AED&height=220&section=header&text=JOS%C3%89%20VICENTE&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20DATA%20SCIENTIST%20%7C%20ML%20ENGINEER&descSize=15&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,35:21105C,70:6D28D9,100:06B6D4&height=240&section=header&text=JOS%C3%89%20VICENTE&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20SCIENCE&descSize=13&descAlignY=60&animation=twinkling&stroke=8B5CF6&strokeWidth=1"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+data+into+knowledge+%F0%9F%A7%A0;Building+intelligent+systems+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+AI;From+experimentation+to+real-world+impact+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jos%C3%A9+Vicente+%F0%9F%91%8B;AI+Engineer+%7C+Data+Scientist+%7C+ML+Engineer;Building+intelligent+systems+%F0%9F%A4%96;Turning+data+into+real-world+impact+%F0%9F%A7%A0;Always+learning.+Always+building.+%E2%9A%A1" alt="Typing animation"/>
 
 <br/>
 
-<a href="https://josevicentegarcia.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-7C3AED?style=for-the-badge" />
-</a>
-<a href="mailto:jv.garcialopez@gmail.com">
-<img src="https://img.shields.io/badge/✉️_CONTACT-312E81?style=for-the-badge" />
-</a>
-<a href="https://github.com/josevigl">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://josevicentegarcia.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:jv.garcialopez@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/josevigl"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=josevigl&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=josevigl&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
-
-## `01` / WHO AM I?
+<h2 align="center">◈  ABOUT ME  ◈</h2>
 
 <table>
 <tr>
 <td width="60%" valign="middle">
 
-### Hi, I'm José Vicente! 👋
+### `> whoami`
 
-I'm a **Computer Engineer specialized in Artificial Intelligence**, passionate about Data Science, Machine Learning and building intelligent solutions.
+I'm **José Vicente**, a Computer Engineer specialized in Artificial Intelligence, passionate about building intelligent systems and extracting meaningful insights from data.
 
-I enjoy working at the intersection of data, algorithms and technology, transforming complex problems into practical solutions.
+I enjoy transforming complex problems into practical solutions through engineering, experimentation and machine learning.
 
-My approach combines technical engineering, rigorous experimentation and a strong focus on real-world impact.
+**What drives me:**
 
 - 🧠 Artificial Intelligence & Machine Learning
 - 📊 Data Science & Predictive Analytics
 - 🤖 Deep Learning & Reinforcement Learning
-- ⚙️ MLOps & Cloud Technologies
+- ⚡ Generative AI, RAG & AI Agents
+- ⚙️ MLOps & Intelligent Systems
 - 🔬 Responsible and Trustworthy AI
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center">
 
-<img src="https://github.com/josevigl.png" width="190" style="border-radius:50%;" />
+<img src="https://github.com/josevigl.png" width="190" alt="José Vicente"/>
 
-<br/><br/>
+<br/>
 
-**AI Engineer**
+**AI ENGINEER**
 
-Computer Engineer · Data Scientist
+Computer Engineer
 
 📍 Spain 🇪🇸
+
+[🌐 Personal Website](https://josevicentegarcia.vercel.app/)
 
 </td>
 </tr>
@@ -69,88 +62,116 @@ Computer Engineer · Data Scientist
 
 ---
 
-## `02` / MY TECH UNIVERSE
+<h2 align="center">◈  TECH STACK  ◈</h2>
 
-<div align="center">
+<h3 align="center">Languages & Development</h3>
 
-### Languages & Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,postgres,git,github,docker,linux,vscode&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,postgres,git,github,docker&theme=dark" />
+<h3 align="center">Machine Learning & Data Science</h3>
 
-<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</p>
 
-### Machine Learning & Data Science
+<h3 align="center">Generative AI & MLOps</h3>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-
-<br/><br/>
-
-### Areas of Interest
-
-<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Deep_Learning-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Reinforcement_Learning-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/Generative_AI-9333EA?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG_%26_AI_Agents-7E22CE?style=flat-square" />
-<img src="https://img.shields.io/badge/MLOps-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Trustworthy_AI-0891B2?style=flat-square" />
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-## `03` / SELECTED PROJECTS
+<h2 align="center">◈  FEATURED PROJECTS  ◈</h2>
 
-<div align="center">
+<p align="center">
+<i>Ideas, experiments and intelligent solutions.</i>
+</p>
 
-### Things I've built
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*Some experiments, some research, some real-world problem solving.*
+### 🏎️ Formula 1 Analytics
 
-### 🔬 More about my work
-
-| Project | What I explored |
-|---|---|
-| 🏎️ [Formula 1 Analytics](https://github.com/josevigl/analisis_F1) | Interactive data analysis, visualizations and race insights |
-| 🦔 [Sonic Reinforcement Learning](https://github.com/josevigl/sonic_tfm) | PPO, A2C, DQN and QR-DQN algorithms |
-| 🤖 [Intelligent CV Analyzer](https://github.com/josevigl/analizadorCV) | AI-powered resume analysis |
-| ❤️ [Cardiovascular Risk Prediction](https://github.com/josevigl/Prediccion_de_riesgo_CV) | Predictive Machine Learning models |
-
-<div align="center">
-
-<a href="https://github.com/josevigl?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/josevigl/analisis_F1">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=flat-square&logo=github"/>
 </a>
 
-</div>
+Interactive data analysis, visualizations and motorsport insights.
+
+`Python` `Data Science` `Analytics`
+
+</td>
+<td width="50%" valign="top">
+
+### 🦔 Sonic Reinforcement Learning
+
+<a href="https://github.com/josevigl/sonic_tfm">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=flat-square&logo=github"/>
+</a>
+
+Training intelligent agents using PPO, A2C, DQN and QR-DQN.
+
+`Deep Learning` `RL` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Intelligent CV Analyzer
+
+<a href="https://github.com/josevigl/analizadorCV">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0891B2?style=flat-square&logo=github"/>
+</a>
+
+AI-powered resume analysis and intelligent information extraction.
+
+`Generative AI` `NLP` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### ❤️ Cardiovascular Risk Prediction
+
+<a href="https://github.com/josevigl/Prediccion_de_riesgo_CV">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0891B2?style=flat-square&logo=github"/>
+</a>
+
+Predictive machine learning models for cardiovascular risk assessment.
+
+`Machine Learning` `Data Science` `Prediction`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://github.com/josevigl?tab=repositories">
+<img src="https://img.shields.io/badge/⚡_EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
-## `04` / THE JOURNEY
+<h2 align="center">◈  EXPERIENCE & EDUCATION  ◈</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/2020--2024-Computer_Engineering-312E81?style=for-the-badge" />
-
-**Universidad de Castilla-La Mancha**
-
-BSc in Computer Engineering · Computing specialization
-
-<br/>
-
-<img src="https://img.shields.io/badge/2024--2026-Master's_Degree-7C3AED?style=for-the-badge" />
-
-**Universidad de Castilla-La Mancha**
-
-MSc in Computer Engineering · Artificial Intelligence specialization
-
-<br/>
-
-<img src="https://img.shields.io/badge/2025--2026-Machine_Learning_Engineer-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/2025--2026-MACHINE_LEARNING_ENGINEER-7C3AED?style=for-the-badge"/>
 
 **CuarteroAgurcia**
 
@@ -158,47 +179,118 @@ Machine Learning solutions for digital marketing, customer segmentation, lead sc
 
 <br/>
 
-<img src="https://img.shields.io/badge/2024-AI_Developer_Intern-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/2024-AI_DEVELOPER_INTERN-0891B2?style=for-the-badge"/>
 
 **Teknei**
 
 Intelligent chatbots, RAG architectures, LangChain, ChromaDB and Generative AI.
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/2024--2026-MSc_COMPUTER_ENGINEERING-7C3AED?style=for-the-badge"/>
+
+**Universidad de Castilla-La Mancha**
+
+Artificial Intelligence specialization.
+
+<br/>
+
+<img src="https://img.shields.io/badge/2020--2024-BSc_COMPUTER_ENGINEERING-312E81?style=for-the-badge"/>
+
+**Universidad de Castilla-La Mancha**
+
+Computing specialization.
+
 </div>
 
 ---
 
-## `05` / GITHUB ANALYTICS
+<h2 align="center">◈  GITHUB ANALYTICS  ◈</h2>
 
 <div align="center">
 
-<br/><br/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=josevigl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=josevigl&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevigl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=josevigl&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=josevigl&bg_color=0D1117&color=A78BFA&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
+</div>
 
 ---
 
-## `06` / LET'S CONNECT
+<h2 align="center">◈  CONTRIBUTION SNAKE  ◈</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/josevigl/josevigl/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+
+</div>
+
+---
+
+<h2 align="center">◈  BEYOND THE CODE  ◈</h2>
+
+<div align="center">
+
+```python
+class JoseVicente:
+
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Data Science",
+            "Generative AI"
+        ]
+        self.mindset = "Never stop learning"
+
+    def current_mission(self):
+        return "Building intelligent solutions 🚀"
+```
+
+**Think. Experiment. Build. Repeat.**
+
+</div>
+
+---
+
+<h2 align="center">◈  LET'S CONNECT  ◈</h2>
 
 <div align="center">
 
 ### Have an interesting problem to solve?
 
-I'm always open to discussing AI, Data Science, Machine Learning and exciting technological projects.
+I'm always open to discussing Artificial Intelligence, Data Science, Machine Learning and exciting technological projects.
 
 <br/>
 
 <a href="mailto:jv.garcialopez@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://josevicentegarcia.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-312E81?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://github.com/josevigl">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:09090F&height=120&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+commit+%F0%9F%9A%80" alt="Thank you animation"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:050510&height=130&section=footer&animation=twinkling"/>
 
 </div>
