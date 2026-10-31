@@ -165,45 +165,116 @@ Predictive machine learning models for cardiovascular risk assessment.
 </a>
 </p>
 
+
 ---
 
 <h2 align="center">◈ EXPERIENCE & EDUCATION ◈</h2>
 
-<div align="center">
+<br/>
 
-<img src="https://img.shields.io/badge/2025--2026-MACHINE_LEARNING_ENGINEER-7C3AED?style=for-the-badge"/>
+<h3 align="center">PROFESSIONAL EXPERIENCE</h3>
 
-**CuarteroAgurcia**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>Machine Learning Engineer</h3>
+
+<strong>CuarteroAgurcia</strong>
+
+<img src="https://img.shields.io/badge/2025--2026-7C3AED?style=flat-square"/>
+
+<sub>MONTH 2025 — MONTH 2026</sub>
 
 Machine Learning solutions for digital marketing, customer segmentation, lead scoring and predictive analytics.
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/2024-AI_DEVELOPER_INTERN-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-21105C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Predictive_Analytics-21105C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Science-21105C?style=flat-square"/>
 
-**Teknei**
+</td>
+<td width="50%" valign="top">
 
-Intelligent chatbots, RAG architectures, LangChain, ChromaDB and Generative AI.
+<h3>AI Developer Intern</h3>
+
+<strong>Teknei</strong>
+
+<img src="https://img.shields.io/badge/2024-0891B2?style=flat-square"/>
+
+<sub>MONTH 2024 — MONTH 2024</sub>
+
+Development of intelligent chatbots, RAG architectures and Generative AI solutions.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/2024--2026-MSc_COMPUTER_ENGINEERING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-083344?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-083344?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-083344?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-083344?style=flat-square"/>
 
-**Universidad de Castilla-La Mancha**
-
-Artificial Intelligence specialization.
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/2020--2024-BSc_COMPUTER_ENGINEERING-312E81?style=for-the-badge"/>
+<h3 align="center">EDUCATION</h3>
 
-**Universidad de Castilla-La Mancha**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>MSc Computer Engineering</h3>
+
+<strong>Universidad de Castilla-La Mancha</strong>
+
+<img src="https://img.shields.io/badge/2024--2026-7C3AED?style=flat-square"/>
+
+<sub>MONTH 2024 — MONTH 2026</sub>
+
+Specialization in Artificial Intelligence.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-21105C?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>BSc Computer Engineering</h3>
+
+<strong>Universidad de Castilla-La Mancha</strong>
+
+<img src="https://img.shields.io/badge/2020--2024-312E81?style=flat-square"/>
+
+<sub>MONTH 2020 — MONTH 2024</sub>
 
 Computing specialization.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Computer_Science-312E81?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<i>Want to know more about my professional journey?</i>
+
+<a href="https://josevicentegarcia.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
 ---
+
 
 <div align="center">
 
